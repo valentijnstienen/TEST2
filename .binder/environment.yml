@@ -1,0 +1,14 @@
+dependencies:
+  - pandas=0.24.2
+  - geopandas=0.6.1
+  - json-c=0.13.1
+  - shapely=1.6.4
+  - xlrd=1.2.0
+  - numpy=1.15.4
+  - pathlib
+  - bokeh=1.2.0
+  - requests
+  - pip
+  - pip:
+    - nbserverproxy
+    - jupyter-server-proxy
